@@ -18,10 +18,7 @@
 
         <div class="jumbotron text-center clearfix">
             <h2>Laravel Shopping Cart</h2>
-            <p>An example Laravel App that demos the basic functionality of a typical e-commerce shopping cart.</p>
-            <p>
-
-            </p>
+            
         </div> 
         <!-- end jumbotron -->
         <div>@include('errors.list')</div>
